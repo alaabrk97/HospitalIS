@@ -1,0 +1,12 @@
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\bin\Debug\net6.0\HospitalIS.Domain.deps.json
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\bin\Debug\net6.0\HospitalIS.Domain.dll
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\bin\Debug\net6.0\HospitalIS.Domain.pdb
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.csproj.AssemblyReference.cache
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.AssemblyInfoInputs.cache
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.AssemblyInfo.cs
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.dll
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\refint\HospitalIS.Domain.dll
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\HospitalIS.Domain.pdb
+C:\Users\alaa\source\repos\HospitalIS\HospitalIS.Domain\obj\Debug\net6.0\ref\HospitalIS.Domain.dll

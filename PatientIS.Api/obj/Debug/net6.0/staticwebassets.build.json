@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gpuxhxd2B9iBTpwL9AaFHFVdofjnk3PH8t/YnuJaRV8=",
+  "Source": "PatientIS.Api",
+  "BasePath": "_content/PatientIS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
